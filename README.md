@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 
 Sou Jefferson , profissional da àrea de vendas e hotelaria retornando à area de tecnologia onde é minha real paixão.<br>
-Estudante e desenvolvedor Front-End e estudando Back-End para seguir carreira como Full-Stack
+Estudante e desenvolvedor Front-End e estudando Back-End para seguir carreira como desenvolvedor Full-Stack.
 <br />
 
 

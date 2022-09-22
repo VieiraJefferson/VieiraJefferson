@@ -38,7 +38,7 @@ Student and Front-End developer and studying Back-End to pursue a career as a Fu
   ```javascript
 const jefferson = {
   
-  code: [Javascript, HTML, CSS, React,],
+  code: [Javascript, HTML, CSS, React],
   tools: [React,Bootstrap, Git, Styled-Components, Node, Chakra-UI, Material-UI],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {

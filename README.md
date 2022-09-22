@@ -37,6 +37,9 @@ const jefferson = {
   techCommunities: {
                         coorganizer: "Labenu",
                         speaker: "Portuguese","Spanish",
+                                  { 
+                                    learning: "English lv4 ",
+                                    }
                         mentor: "Labenu"
                       },
  challenge: "I am doing the #FullStack Developer 1040 hrs focused on react and typescript"

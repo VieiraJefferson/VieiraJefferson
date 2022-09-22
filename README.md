@@ -1,3 +1,10 @@
+
+  <img src="https://cdn.discordapp.com/attachments/1014678461979303976/1022571023763247144/Black_and_White_Gradient_Personal_LinkedIn_Banner.png" />
+
+
+
+
+
 ### Hi, Welcome! 👋
 <a href="https://www.linkedin.com/in/jefferson-feliciano-jesus-vieira-6b660b242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> 
 _______________________________________________________________________________________________

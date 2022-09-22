@@ -37,7 +37,7 @@ const jefferson = {
   techCommunities: {
                         coorganizer: "Labenu",
                         speaker: "Portuguese","Spanish",
-                                  { 
+                                 { 
                                     learning: "English lv4 ",
                                     }
                         mentor: "Labenu"

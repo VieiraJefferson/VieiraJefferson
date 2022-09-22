@@ -19,7 +19,7 @@ Estudante e desenvolvedor Front-End e estudando Back-End para seguir carreira co
 * Back-End
 
 <br />
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> 
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo node.js"></a> 
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" width="28" />  
 <br />

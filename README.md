@@ -1,10 +1,10 @@
-### Oi, Seja muito bem-vind@! 👋
+### Hi, Welcome! 👋
 <a href="https://www.linkedin.com/in/jefferson-feliciano-jesus-vieira-6b660b242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> 
 _______________________________________________________________________________________________
 
 
-Sou Jefferson , profissional da àrea de vendas e hotelaria retornando à area de tecnologia onde é minha real paixão.<br>
-Estudante e desenvolvedor Front-End e estudando Back-End para seguir carreira como desenvolvedor Full-Stack.
+I'm Jefferson, a sales and hospitality professional returning to the technology area where my real passion is.<br>
+Student and Front-End developer and studying Back-End to pursue a career as a Full-Stack developer.
 <br />
 
 
